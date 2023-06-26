@@ -20,6 +20,6 @@ spec:
     git:
       uri: 'https://github.com/pawelwojtyra/okd-docker-build.git'
       ref: main
-    contextDir: /
+    contextDir: /content
   runPolicy: Serial
 
